@@ -1,4 +1,5 @@
 # FBC
+''''bash
 $pkg update && pkg upgrade
 $pkg install python -y
 $pkg install git
@@ -8,3 +9,4 @@ $pip install requests
 $pip install bs4
 $cd FBC
 $python fbc.py
+''''
